@@ -1,0 +1,15 @@
+.image-list img{
+width: 300px;
+
+
+   
+}
+
+.image-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   grid-auto-rows: 100px;
+grid-row-gap: 0 10px;
+  
+    
+}
